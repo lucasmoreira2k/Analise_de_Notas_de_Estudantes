@@ -26,3 +26,4 @@ Este repositório contém uma aplicação desenvolvida em Python e Dash para an�
 
 ```bash
 pip install dash plotly pandas numpy
+# Analise_de_Notas_de_Estudantes
